@@ -61,4 +61,4 @@ cd news-portal
 3.  Open the index.html file in your browser.
 
    📸 Project Preview
-(![Project Preview](/assets/Preview.png))
+(![Project Preview](/assets/preview.png))
